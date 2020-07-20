@@ -1,4 +1,4 @@
-# IOS_PlanShare
+# IOS_PlanShare by jeyoung
 
 # 2020.07.20 
 
